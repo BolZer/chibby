@@ -1,0 +1,4082 @@
+[
+ {
+  "Name": "Barioth",
+  "Names": {
+   "english": "Barioth",
+   "japanese": "ベリオロス"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/4k2UP/barioth",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 15,
+   "Water": 3,
+   "Thunder": 10,
+   "Ice": 0,
+   "Dragon": 7
+  }
+ },
+ {
+  "Name": "Blackveil Vaal Hazak",
+  "Names": {
+   "english": "Blackveil Vaal Hazak",
+   "japanese": "死を纏うヴァルハザク"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/WQzsl/blackveil-vaal-hazak",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 14,
+   "Water": 5,
+   "Thunder": 7,
+   "Ice": 10,
+   "Dragon": 14
+  }
+ },
+ {
+  "Name": "Scarred Yian Garuga",
+  "Names": {
+   "english": "Scarred Yian Garuga",
+   "japanese": "傷ついたイャンガルルガ"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/46DhX/scarred-yian-garuga",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 20,
+   "Thunder": 0,
+   "Ice": 6,
+   "Dragon": 11
+  }
+ },
+ {
+  "Name": "Gajau",
+  "Names": {
+   "english": "Gajau",
+   "japanese": "ガライーバ"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/BgzT2/gajau",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 40,
+   "Water": 10,
+   "Thunder": 40,
+   "Ice": 25,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Gastodon",
+  "Names": {
+   "english": "Gastodon",
+   "japanese": "ガストドン"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/vmLtJ/gastodon",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 8,
+   "Water": 20,
+   "Thunder": 33,
+   "Ice": 20,
+   "Dragon": 8
+  }
+ },
+ {
+  "Name": "Vespoid",
+  "Names": {
+   "english": "Vespoid",
+   "japanese": "ランゴスタ"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/REdsV/vespoid",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 100,
+   "Water": 50,
+   "Thunder": 10,
+   "Ice": 50,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Barroth",
+  "Names": {
+   "english": "Barroth",
+   "japanese": "ボルボロス"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/Z9btN/barroth",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 35,
+   "Thunder": 0,
+   "Ice": 12,
+   "Dragon": 7
+  }
+ },
+ {
+  "Name": "Beotodus",
+  "Names": {
+   "english": "Beotodus",
+   "japanese": "ブラントドス"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/OqOIX/beotodus",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 23,
+   "Water": 4,
+   "Thunder": 9,
+   "Ice": 0,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Rajang",
+  "Names": {
+   "english": "Rajang",
+   "japanese": "ラージャン"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/jJZIO/rajang",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 5,
+   "Thunder": 0,
+   "Ice": 17,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Vaal Hazak",
+  "Names": {
+   "english": "Vaal Hazak",
+   "japanese": "ヴァルハザク"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/9mMsb/vaal-hazak",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 19,
+   "Water": 4,
+   "Thunder": 9,
+   "Ice": 13,
+   "Dragon": 11
+  }
+ },
+ {
+  "Name": "Girros",
+  "Names": {
+   "english": "Girros",
+   "japanese": "ギルオス"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/eQ1UO/girros",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 45,
+   "Water": 3,
+   "Thunder": 25,
+   "Ice": 15,
+   "Dragon": 8
+  }
+ },
+ {
+  "Name": "Nightshade Paolumu",
+  "Names": {
+   "english": "Nightshade Paolumu",
+   "japanese": "パオウルムー亜種"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/QNkhw/nightshade-paolumu",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 11,
+   "Water": 19,
+   "Thunder": 6,
+   "Ice": 6,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Radobaan",
+  "Names": {
+   "english": "Radobaan",
+   "japanese": "ラドバルキン"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/v2OUJ/radobaan",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 9,
+   "Water": 9,
+   "Thunder": 9,
+   "Ice": 11,
+   "Dragon": 14
+  }
+ },
+ {
+  "Name": "Shrieking Legiana",
+  "Names": {
+   "english": "Shrieking Legiana",
+   "japanese": "凍て刺すレイギエナ"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/Dm5tZ/shrieking-legiana",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 18,
+   "Water": 6,
+   "Thunder": 11,
+   "Ice": 0,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Hornetaur",
+  "Names": {
+   "english": "Hornetaur",
+   "japanese": "カンタロス"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/Bw3C8/hornetaur",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 100,
+   "Water": 20,
+   "Thunder": 60,
+   "Ice": 100,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Noios",
+  "Names": {
+   "english": "Noios",
+   "japanese": "ノイオス"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/9xofb/noios",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 25,
+   "Thunder": 25,
+   "Ice": 25,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Acidic Glavenus",
+  "Names": {
+   "english": "Acidic Glavenus",
+   "japanese": "ディノバルド亜種"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/KpViL/acidic-glavenus",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 20,
+   "Water": 8,
+   "Thunder": 12,
+   "Ice": 8,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Banbaro",
+  "Names": {
+   "english": "Banbaro",
+   "japanese": "バフバロ"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/6dJI8/banbaro",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 8,
+   "Water": 0,
+   "Thunder": 3,
+   "Ice": 0,
+   "Dragon": 13
+  }
+ },
+ {
+  "Name": "Dodogama",
+  "Names": {
+   "english": "Dodogama",
+   "japanese": "ドドガマル"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/DmeH0/dodogama",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 12,
+   "Thunder": 22,
+   "Ice": 12,
+   "Dragon": 7
+  }
+ },
+ {
+  "Name": "Savage Deviljho",
+  "Names": {
+   "english": "Savage Deviljho",
+   "japanese": "怒り喰らうイビルジョー"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/B02Tk/savage-deviljho",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 16,
+   "Water": 15,
+   "Thunder": 21,
+   "Ice": 12,
+   "Dragon": 20
+  }
+ },
+ {
+  "Name": "Mosswine",
+  "Names": {
+   "english": "Mosswine",
+   "japanese": "モス"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/B05hV/mosswine",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 100,
+   "Water": 100,
+   "Thunder": 100,
+   "Ice": 100,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Coral Pukei-Pukei",
+  "Names": {
+   "english": "Coral Pukei-Pukei",
+   "japanese": "プケプケ亜種 "
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/aY2Se/coral-pukei-pukei",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 6,
+   "Water": 0,
+   "Thunder": 10,
+   "Ice": 23,
+   "Dragon": 6
+  }
+ },
+ {
+  "Name": "Lunastra",
+  "Names": {
+   "english": "Lunastra",
+   "japanese": "ナナ・テスカトリ"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/j8gFA/lunastra",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 3,
+   "Thunder": 3,
+   "Ice": 19,
+   "Dragon": 14
+  }
+ },
+ {
+  "Name": "Aptonoth",
+  "Names": {
+   "english": "Aptonoth",
+   "japanese": "アプトノス"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/Rz9Tb/aptonoth",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 40,
+   "Water": 20,
+   "Thunder": 30,
+   "Ice": 20,
+   "Dragon": 15
+  }
+ },
+ {
+  "Name": "Kelbi",
+  "Names": {
+   "english": "Kelbi",
+   "japanese": "ケルビ"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/BaqfV/kelbi",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 80,
+   "Water": 80,
+   "Thunder": 80,
+   "Ice": 80,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Black Diablos",
+  "Names": {
+   "english": "Black Diablos",
+   "japanese": "ディアブロス亜種"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/RoXHw/black-diablos",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 21,
+   "Thunder": 9,
+   "Ice": 25,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Great Jagras",
+  "Names": {
+   "english": "Great Jagras",
+   "japanese": "ドスジャグラス"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/zJ1Sb/great-jagras",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 23,
+   "Water": 0,
+   "Thunder": 13,
+   "Ice": 8,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Kirin",
+  "Names": {
+   "english": "Kirin",
+   "japanese": "キリン"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/BQruK/kirin",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 18,
+   "Water": 13,
+   "Thunder": 0,
+   "Ice": 13,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Kushala Daora",
+  "Names": {
+   "english": "Kushala Daora",
+   "japanese": "クシャルダオラ"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/jJxin/kushala-daora",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 5,
+   "Thunder": 17,
+   "Ice": 0,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Zinogre",
+  "Names": {
+   "english": "Zinogre",
+   "japanese": "ジンオウガ"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/Ak8TZ/zinogre",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 3,
+   "Water": 9,
+   "Thunder": 0,
+   "Ice": 14,
+   "Dragon": 3
+  }
+ },
+ {
+  "Name": "Barnos",
+  "Names": {
+   "english": "Barnos",
+   "japanese": "バルノス"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/QZrSK/barnos",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 20,
+   "Water": 0,
+   "Thunder": 10,
+   "Ice": 10,
+   "Dragon": 50
+  }
+ },
+ {
+  "Name": "Apceros",
+  "Names": {
+   "english": "Apceros",
+   "japanese": "アプケロス"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/BnetX/apceros",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 27,
+   "Water": 17,
+   "Thunder": 27,
+   "Ice": 17,
+   "Dragon": 7
+  }
+ },
+ {
+  "Name": "Nergigante",
+  "Names": {
+   "english": "Nergigante",
+   "japanese": "ネルギガンテ "
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/aYaUV/nergigante",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 7,
+   "Water": 6,
+   "Thunder": 15,
+   "Ice": 5,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Paolumu",
+  "Names": {
+   "english": "Paolumu",
+   "japanese": "パオウルムー"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/2mnT3/paolumu",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 20,
+   "Water": 0,
+   "Thunder": 13,
+   "Ice": 8,
+   "Dragon": 8
+  }
+ },
+ {
+  "Name": "Seething Bazelgeuse",
+  "Names": {
+   "english": "Seething Bazelgeuse",
+   "japanese": "紅蓮滾るバゼルギウス"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/6dkhX/seething-bazelgeuse",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 5,
+   "Thunder": 14,
+   "Ice": 19,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Silver Rathalos",
+  "Names": {
+   "english": "Silver Rathalos",
+   "japanese": "リオレウス希少種"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/B0ktO/silver-rathalos",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 16,
+   "Thunder": 11,
+   "Ice": 7,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Tobi-Kadachi",
+  "Names": {
+   "english": "Tobi-Kadachi",
+   "japanese": "トビカガチ"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/blDTZ/tobi-kadachi",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 20,
+   "Thunder": 0,
+   "Ice": 10,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Anteka",
+  "Names": {
+   "english": "Anteka",
+   "japanese": "ガウシカ"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/BDPt0/anteka",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 80,
+   "Water": 80,
+   "Thunder": 80,
+   "Ice": 80,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Diablos",
+  "Names": {
+   "english": "Diablos",
+   "japanese": "ディアブロス"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/BYXHE/diablos",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 22,
+   "Thunder": 9,
+   "Ice": 26,
+   "Dragon": 22
+  }
+ },
+ {
+  "Name": "Jyuratodus",
+  "Names": {
+   "english": "Jyuratodus",
+   "japanese": "ジュラトドス"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/oAyTx/jyuratodus",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 4,
+   "Water": 12,
+   "Thunder": 9,
+   "Ice": 5,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Viper Tobi-Kadachi",
+  "Names": {
+   "english": "Viper Tobi-Kadachi",
+   "japanese": "トビカガチ亜種"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/2mJUK/viper-tobi-kadachi",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 4,
+   "Water": 0,
+   "Thunder": 16,
+   "Ice": 11,
+   "Dragon": 4
+  }
+ },
+ {
+  "Name": "Brachydios",
+  "Names": {
+   "english": "Brachydios",
+   "japanese": "ブラキディオス"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/qpVH8/brachydios",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 12,
+   "Thunder": 6,
+   "Ice": 18,
+   "Dragon": 4
+  }
+ },
+ {
+  "Name": "Namielle",
+  "Names": {
+   "english": "Namielle",
+   "japanese": "ネロミェール"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/Mzdfo/namielle",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 16,
+   "Water": 0,
+   "Thunder": 0,
+   "Ice": 9,
+   "Dragon": 13
+  }
+ },
+ {
+  "Name": "Xeno'jiiva",
+  "Names": {
+   "english": "Xeno'jiiva",
+   "japanese": "ゼノ・ジーヴァ"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/wA8F8/xeno-jiiva",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 15,
+   "Water": 17,
+   "Thunder": 17,
+   "Ice": 17,
+   "Dragon": 15
+  }
+ },
+ {
+  "Name": "Safi'jiiva",
+  "Names": {
+   "english": "Safi'jiiva",
+   "japanese": "ムフェト・ジーヴァ"
+  },
+  "Url": "https://monsterhunter.fandom.com/wiki/Safi%27jiiva",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 17,
+   "Water": 17,
+   "Thunder": 17,
+   "Ice": 17,
+   "Dragon": 20
+  }
+ },
+ {
+  "Name": "Kestodon",
+  "Names": {
+   "english": "Kestodon",
+   "japanese": "ケストドン"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/eQoIZ/kestodon-female",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 25,
+   "Water": 40,
+   "Thunder": 25,
+   "Ice": 40,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Wulg",
+  "Names": {
+   "english": "Wulg",
+   "japanese": "ウルグ"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/qpVH8/wulg",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 50,
+   "Water": 5,
+   "Thunder": 28,
+   "Ice": 0,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Brute Tigrex",
+  "Names": {
+   "english": "Brute Tigrex",
+   "japanese": "ティガレックス亜種"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/j1ohM/brute-tigrex",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 1,
+   "Water": 16,
+   "Thunder": 13,
+   "Ice": 8,
+   "Dragon": 11
+  }
+ },
+ {
+  "Name": "Great Girros",
+  "Names": {
+   "english": "Great Girros",
+   "japanese": "ドスギルオス"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/eMAHO/great-girros",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 6,
+   "Water": 21,
+   "Thunder": 0,
+   "Ice": 11,
+   "Dragon": 4
+  }
+ },
+ {
+  "Name": "Kulu-Ya-Ku",
+  "Names": {
+   "english": "Kulu-Ya-Ku",
+   "japanese": "クルルヤック"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/YQ1FE/kulu-ya-ku",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 14,
+   "Water": 20,
+   "Thunder": 14,
+   "Ice": 14,
+   "Dragon": 14
+  }
+ },
+ {
+  "Name": "Kulve Taroth",
+  "Names": {
+   "english": "Kulve Taroth",
+   "japanese": "マム・タロト"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/5xbCn/kulve-taroth",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 6,
+   "Water": 18,
+   "Thunder": 15,
+   "Ice": 22,
+   "Dragon": 19
+  }
+ },
+ {
+  "Name": "Zorah Magdaros",
+  "Names": {
+   "english": "Zorah Magdaros",
+   "japanese": "ゾラ・マグダラオス"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/EmVcV/zorah-magdaros",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 14,
+   "Thunder": 7,
+   "Ice": 10,
+   "Dragon": 14
+  }
+ },
+ {
+  "Name": "Raphinos",
+  "Names": {
+   "english": "Raphinos",
+   "japanese": "ラフィノス"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/bx8uZ/raphinos",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 50,
+   "Water": 50,
+   "Thunder": 100,
+   "Ice": 50,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Bazelgeuse",
+  "Names": {
+   "english": "Bazelgeuse",
+   "japanese": "バゼルギウス "
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/Xe7fm/bazelgeuse",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 8,
+   "Thunder": 18,
+   "Ice": 13,
+   "Dragon": 13
+  }
+ },
+ {
+  "Name": "Deviljho",
+  "Names": {
+   "english": "Deviljho",
+   "japanese": "イビルジョー"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/4rATd/deviljho",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 10,
+   "Thunder": 20,
+   "Ice": 8,
+   "Dragon": 20
+  }
+ },
+ {
+  "Name": "Jagras",
+  "Names": {
+   "english": "Jagras",
+   "japanese": "ジャグラス"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/wa3H8/jagras",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 45,
+   "Water": 3,
+   "Thunder": 25,
+   "Ice": 15,
+   "Dragon": 8
+  }
+ },
+ {
+  "Name": "Ancient Leshen",
+  "Names": {
+   "english": "Ancient Leshen",
+   "japanese": "エンシェント・レーシェン"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/N3vuk/ancient-leshen",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 17,
+   "Water": 0,
+   "Thunder": 9,
+   "Ice": 5,
+   "Dragon": 9
+  }
+ },
+ {
+  "Name": "Azure Rathalos",
+  "Names": {
+   "english": "Azure Rathalos",
+   "japanese": "リオレウス亜種"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/BaYte/azure-rathalos",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 6,
+   "Thunder": 6,
+   "Ice": 11,
+   "Dragon": 21
+  }
+ },
+ {
+  "Name": "Lavasioth",
+  "Names": {
+   "english": "Lavasioth",
+   "japanese": "ヴォルガノス"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/BL1ca/lavasioth",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 11,
+   "Water": 20,
+   "Thunder": 5,
+   "Ice": 5,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Pink Rathian",
+  "Names": {
+   "english": "Pink Rathian",
+   "japanese": "リオレイア（亜種）"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/BnNTd/pink-rathian",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 5,
+   "Thunder": 10,
+   "Ice": 5,
+   "Dragon": 20
+  }
+ },
+ {
+  "Name": "Shara Ishvalda",
+  "Names": {
+   "english": "Shara Ishvalda",
+   "japanese": "アン・イシュワルダ"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/8mvfA/shara-ishvalda",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 5,
+   "Water": 11,
+   "Thunder": 0,
+   "Ice": 16,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Cortos",
+  "Names": {
+   "english": "Cortos",
+   "japanese": "コルトス"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/Wb0c8/cortos",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 55,
+   "Water": 3,
+   "Thunder": 10,
+   "Ice": 0,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Gajalaka",
+  "Names": {
+   "english": "Gajalaka",
+   "japanese": "ガジャブー"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/55Ycn/gajalaka",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 35,
+   "Water": 30,
+   "Thunder": 50,
+   "Ice": 40,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Ebony Odogaron",
+  "Names": {
+   "english": "Ebony Odogaron",
+   "japanese": "オドガロン亜種"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/v2gSW/ebony-odogaron",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 15,
+   "Water": 23,
+   "Thunder": 15,
+   "Ice": 15,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Glavenus",
+  "Names": {
+   "english": "Glavenus",
+   "japanese": "ディノバルド"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/Lk1ia/glavenus",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 20,
+   "Thunder": 7,
+   "Ice": 11,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Leshen",
+  "Names": {
+   "english": "Leshen",
+   "japanese": "レーシェン"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/GmYh0/leshen",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 17,
+   "Water": 0,
+   "Thunder": 9,
+   "Ice": 5,
+   "Dragon": 9
+  }
+ },
+ {
+  "Name": "Ruiner Nergigante",
+  "Names": {
+   "english": "Ruiner Nergigante",
+   "japanese": "悉くを殲ぼすネルギガンテ"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/oAnim/ruiner-nergigante",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 7,
+   "Water": 6,
+   "Thunder": 14,
+   "Ice": 5,
+   "Dragon": 16
+  }
+ },
+ {
+  "Name": "Tzitzi-Ya-Ku",
+  "Names": {
+   "english": "Tzitzi-Ya-Ku",
+   "japanese": "ツィツィヤック"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/WQvu8/tzitzi-ya-ku",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 15,
+   "Water": 15,
+   "Thunder": 20,
+   "Ice": 20,
+   "Dragon": 15
+  }
+ },
+ {
+  "Name": "Yian Garuga",
+  "Names": {
+   "english": "Yian Garuga",
+   "japanese": "イャンガルルガ"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/jXmhm/yian-garuga",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 20,
+   "Thunder": 0,
+   "Ice": 6,
+   "Dragon": 11
+  }
+ },
+ {
+  "Name": "Gold Rathian",
+  "Names": {
+   "english": "Gold Rathian",
+   "japanese": "リオレイア希少種"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/BaPT0/gold-rathian",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 10,
+   "Thunder": 15,
+   "Ice": 7,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Nargacuga",
+  "Names": {
+   "english": "Nargacuga",
+   "japanese": "ナルガクルガ"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/BKNIm/nargacuga",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 11,
+   "Water": 0,
+   "Thunder": 20,
+   "Ice": 6,
+   "Dragon": 6
+  }
+ },
+ {
+  "Name": "Tigrex",
+  "Names": {
+   "english": "Tigrex",
+   "japanese": "ティガレックス"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/jVAhP/tigrex",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 1,
+   "Water": 8,
+   "Thunder": 16,
+   "Ice": 4,
+   "Dragon": 11
+  }
+ },
+ {
+  "Name": "Uragaan",
+  "Names": {
+   "english": "Uragaan",
+   "japanese": "ウラガンキン"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/z99fb/uragaan",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 22,
+   "Thunder": 3,
+   "Ice": 13,
+   "Dragon": 19
+  }
+ },
+ {
+  "Name": "Boaboa",
+  "Names": {
+   "english": "Boaboa",
+   "japanese": "ボワボワ"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/XYdC6/boaboa",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 40,
+   "Water": 30,
+   "Thunder": 50,
+   "Ice": 25,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Popo",
+  "Names": {
+   "english": "Popo",
+   "japanese": "ポポ"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/BvLUJ/popo",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 40,
+   "Water": 20,
+   "Thunder": 30,
+   "Ice": 20,
+   "Dragon": 15
+  }
+ },
+ {
+  "Name": "Mernos",
+  "Names": {
+   "english": "Mernos",
+   "japanese": "メルノス "
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/ErdcV/mernos",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 25,
+   "Water": 25,
+   "Thunder": 25,
+   "Ice": 25,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Shamos",
+  "Names": {
+   "english": "Shamos",
+   "japanese": "シャムオス "
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/2r9F3/shamos",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 40,
+   "Water": 25,
+   "Thunder": 40,
+   "Ice": 25,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Behemoth",
+  "Names": {
+   "english": "Behemoth",
+   "japanese": "ベヒーモス"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/yA8Ub/behemoth",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 8,
+   "Water": 15,
+   "Thunder": 11,
+   "Ice": 12,
+   "Dragon": 17
+  }
+ },
+ {
+  "Name": "Rathalos",
+  "Names": {
+   "english": "Rathalos",
+   "japanese": "リオレウス"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/BnetX/rathalos",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 8,
+   "Thunder": 13,
+   "Ice": 8,
+   "Dragon": 23
+  }
+ },
+ {
+  "Name": "Rathian",
+  "Names": {
+   "english": "Rathian",
+   "japanese": "リオレイア"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/Rz9Tb/rathian",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 6,
+   "Thunder": 11,
+   "Ice": 6,
+   "Dragon": 21
+  }
+ },
+ {
+  "Name": "Teostra",
+  "Names": {
+   "english": "Teostra",
+   "japanese": "テオ・テスカトル"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/jGeS0/teostra",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 19,
+   "Thunder": 4,
+   "Ice": 14,
+   "Dragon": 4
+  }
+ },
+ {
+  "Name": "Velkhana",
+  "Names": {
+   "english": "Velkhana",
+   "japanese": "イヴェルカーナ"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/J1pFn/velkhana",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 25,
+   "Water": 5,
+   "Thunder": 10,
+   "Ice": 0,
+   "Dragon": 15
+  }
+ },
+ {
+  "Name": "Anjanath",
+  "Names": {
+   "english": "Anjanath",
+   "japanese": "アンジャナフ"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/ZqptN/anjanath",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 22,
+   "Thunder": 10,
+   "Ice": 15,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Fulgur Anjanath",
+  "Names": {
+   "english": "Fulgur Anjanath",
+   "japanese": "アンジャナフ亜種"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/zJaFg/fulgur-anjanath",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 9,
+   "Water": 18,
+   "Thunder": 0,
+   "Ice": 18,
+   "Dragon": 4
+  }
+ },
+ {
+  "Name": "Legiana",
+  "Names": {
+   "english": "Legiana",
+   "japanese": "レイギエナ"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/QNYCK/legiana",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 12,
+   "Water": 7,
+   "Thunder": 17,
+   "Ice": 0,
+   "Dragon": 6
+  }
+ },
+ {
+  "Name": "Odogaron",
+  "Names": {
+   "english": "Odogaron",
+   "japanese": "オドガロン"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/ADAfZ/odogaron",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 4,
+   "Water": 7,
+   "Thunder": 12,
+   "Ice": 22,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Pukei-Pukei",
+  "Names": {
+   "english": "Pukei-Pukei",
+   "japanese": "プケプケ"
+  },
+  "Url": "https://mhworld.kiranico.com/monsters/nebTX/pukei-pukei",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 9,
+   "Water": 0,
+   "Thunder": 24,
+   "Ice": 14,
+   "Dragon": 6
+  }
+ },
+ {
+  "Name": "Chaotic Gore Magala",
+  "Names": {
+   "english": "Chaotic Gore Magala",
+   "japanese": "渾沌に呻くゴア・マガラ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/680d5",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 25,
+   "Water": 0,
+   "Thunder": 15,
+   "Ice": 5,
+   "Dragon": 30
+  }
+ },
+ {
+  "Name": "Alatreon",
+  "Names": {
+   "english": "Alatreon",
+   "japanese": "アルバトリオン"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6bd96",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 15,
+   "Thunder": 5,
+   "Ice": 20,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Fatalis",
+  "Names": {
+   "english": "Fatalis",
+   "japanese": "ミラボレアス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6d3e6",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 15,
+   "Water": 5,
+   "Thunder": 5,
+   "Ice": 10,
+   "Dragon": 30
+  }
+ },
+ {
+  "Name": "Kecha Wacha",
+  "Names": {
+   "english": "Kecha Wacha",
+   "japanese": "ケチャワチャ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6a756",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 30,
+   "Water": 0,
+   "Thunder": 20,
+   "Ice": 10,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Royal Ludroth",
+  "Names": {
+   "english": "Royal Ludroth",
+   "japanese": "ロアルドロス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6d586",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 30,
+   "Water": 0,
+   "Thunder": 5,
+   "Ice": 5,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Basarios",
+  "Names": {
+   "english": "Basarios",
+   "japanese": "バサルモス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6eed6",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 15,
+   "Thunder": 10,
+   "Ice": 10,
+   "Dragon": 18
+  }
+ },
+ {
+  "Name": "Yian Garuga",
+  "Names": {
+   "english": "Yian Garuga",
+   "japanese": "イャンガルルガ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/60736",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 20,
+   "Thunder": 0,
+   "Ice": 10,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Akantor",
+  "Names": {
+   "english": "Akantor",
+   "japanese": "アカムトルム"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/678b6",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 5,
+   "Thunder": 20,
+   "Ice": 0,
+   "Dragon": 20
+  }
+ },
+ {
+  "Name": "Redhelm Arzuros",
+  "Names": {
+   "english": "Redhelm Arzuros",
+   "japanese": "紅兜アオアシラ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/60e36",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 5,
+   "Water": 0,
+   "Thunder": 0,
+   "Ice": 0,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Congalala",
+  "Names": {
+   "english": "Congalala",
+   "japanese": "ババコンガ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/63d0d",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 25,
+   "Water": 10,
+   "Thunder": 10,
+   "Ice": 15,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Hellblade Glavenus",
+  "Names": {
+   "english": "Hellblade Glavenus",
+   "japanese": "燼滅刃ディノバルド"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/63a06",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 20,
+   "Thunder": 10,
+   "Ice": 10,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Grimclaw Tigrex",
+  "Names": {
+   "english": "Grimclaw Tigrex",
+   "japanese": "荒鉤爪ティガレックス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6d486",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 10,
+   "Thunder": 20,
+   "Ice": 5,
+   "Dragon": 15
+  }
+ },
+ {
+  "Name": "Nakarkos",
+  "Names": {
+   "english": "Nakarkos",
+   "japanese": "オストガロア"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/65576",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 0,
+   "Thunder": 5,
+   "Ice": 0,
+   "Dragon": 15
+  }
+ },
+ {
+  "Name": "Tetsucabra",
+  "Names": {
+   "english": "Tetsucabra",
+   "japanese": "テツカブラ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/63906",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 30,
+   "Thunder": 25,
+   "Ice": 5,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Boltreaver Astalos",
+  "Names": {
+   "english": "Boltreaver Astalos",
+   "japanese": "青電主ライゼクス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/67d50",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 5,
+   "Water": 5,
+   "Thunder": 0,
+   "Ice": 5,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Elderfrost Gammoth",
+  "Names": {
+   "english": "Elderfrost Gammoth",
+   "japanese": "銀嶺ガムート"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6a004",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 0,
+   "Thunder": 15,
+   "Ice": 0,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Valstrax",
+  "Names": {
+   "english": "Valstrax",
+   "japanese": "バルファルク"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/63ddd",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 25,
+   "Water": 25,
+   "Thunder": 25,
+   "Ice": 25,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Glavenus",
+  "Names": {
+   "english": "Glavenus",
+   "japanese": "ディノバルド"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6aa56",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 25,
+   "Thunder": 10,
+   "Ice": 15,
+   "Dragon": 15
+  }
+ },
+ {
+  "Name": "Duramboros",
+  "Names": {
+   "english": "Duramboros",
+   "japanese": "ドボルベルク"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6ab56",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 5,
+   "Thunder": 15,
+   "Ice": 5,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Tigrex",
+  "Names": {
+   "english": "Tigrex",
+   "japanese": "ティガレックス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/68746",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 10,
+   "Thunder": 20,
+   "Ice": 5,
+   "Dragon": 15
+  }
+ },
+ {
+  "Name": "Diablos",
+  "Names": {
+   "english": "Diablos",
+   "japanese": "ディアブロス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/65836",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 15,
+   "Thunder": 15,
+   "Ice": 20,
+   "Dragon": 15
+  }
+ },
+ {
+  "Name": "Iodrome",
+  "Names": {
+   "english": "Iodrome",
+   "japanese": "ドスイーオス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/69846",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 20,
+   "Water": 30,
+   "Thunder": 30,
+   "Ice": 10,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Barroth",
+  "Names": {
+   "english": "Barroth",
+   "japanese": "ボルボロス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/69879",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 40,
+   "Water": 0,
+   "Thunder": 0,
+   "Ice": 20,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Deadeye Yian Garuga",
+  "Names": {
+   "english": "Deadeye Yian Garuga",
+   "japanese": "隻眼イャンガルルガ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/68046",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 20,
+   "Thunder": 0,
+   "Ice": 10,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Crystalbeard Uragaan",
+  "Names": {
+   "english": "Crystalbeard Uragaan",
+   "japanese": "宝纏ウラガンキン"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/60436",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 20,
+   "Thunder": 10,
+   "Ice": 0,
+   "Dragon": 15
+  }
+ },
+ {
+  "Name": "Amatsu",
+  "Names": {
+   "english": "Amatsu",
+   "japanese": "アマツマガツチ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/69946",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 20,
+   "Water": 0,
+   "Thunder": 15,
+   "Ice": 10,
+   "Dragon": 25
+  }
+ },
+ {
+  "Name": "Rathalos",
+  "Names": {
+   "english": "Rathalos",
+   "japanese": "リオレウス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/d6576",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 10,
+   "Thunder": 15,
+   "Ice": 10,
+   "Dragon": 20
+  }
+ },
+ {
+  "Name": "Blangonga",
+  "Names": {
+   "english": "Blangonga",
+   "japanese": "ドドブランゴ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6a056",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 30,
+   "Water": 5,
+   "Thunder": 15,
+   "Ice": 0,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Shogun Ceanataur",
+  "Names": {
+   "english": "Shogun Ceanataur",
+   "japanese": "ショウグンギザミ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6bb96",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 10,
+   "Thunder": 35,
+   "Ice": 20,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Nargacuga",
+  "Names": {
+   "english": "Nargacuga",
+   "japanese": "ナルガクルガ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6a856",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 20,
+   "Water": 10,
+   "Thunder": 25,
+   "Ice": 15,
+   "Dragon": 15
+  }
+ },
+ {
+  "Name": "Great Maccao",
+  "Names": {
+   "english": "Great Maccao",
+   "japanese": "ドスマッカォ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/60036",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 30,
+   "Water": 20,
+   "Thunder": 10,
+   "Ice": 20,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Seltas Queen",
+  "Names": {
+   "english": "Seltas Queen",
+   "japanese": "ゲネル・セルタス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/65376",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 30,
+   "Water": 0,
+   "Thunder": 15,
+   "Ice": 25,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Stonefist Hermitaur",
+  "Names": {
+   "english": "Stonefist Hermitaur",
+   "japanese": "矛砕ダイミョウザザミ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/67db6",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 0,
+   "Thunder": 20,
+   "Ice": 5,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Malfestio",
+  "Names": {
+   "english": "Malfestio",
+   "japanese": "ホロロホルル"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6b796",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 15,
+   "Thunder": 5,
+   "Ice": 5,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Gore Magala",
+  "Names": {
+   "english": "Gore Magala",
+   "japanese": "ゴア・マガラ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/60336",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 15,
+   "Water": 0,
+   "Thunder": 15,
+   "Ice": 5,
+   "Dragon": 15
+  }
+ },
+ {
+  "Name": "Bloodbath Diablos",
+  "Names": {
+   "english": "Bloodbath Diablos",
+   "japanese": "鏖魔ディアブロス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/60806",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 20,
+   "Thunder": 15,
+   "Ice": 15,
+   "Dragon": 15
+  }
+ },
+ {
+  "Name": "Raging Brachydios",
+  "Names": {
+   "english": "Raging Brachydios",
+   "japanese": "猛り爆ぜるブラキディオス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/65ed3",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 20,
+   "Thunder": 5,
+   "Ice": 25,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Plesioth",
+  "Names": {
+   "english": "Plesioth",
+   "japanese": "ガノトトス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/76a56",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 15,
+   "Water": 0,
+   "Thunder": 20,
+   "Ice": 5,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Zinogre",
+  "Names": {
+   "english": "Zinogre",
+   "japanese": "ジンオウガ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/647d6",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 10,
+   "Thunder": 0,
+   "Ice": 15,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Barioth",
+  "Names": {
+   "english": "Barioth",
+   "japanese": "ベリオロス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6ea4d",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 30,
+   "Water": 10,
+   "Thunder": 25,
+   "Ice": 0,
+   "Dragon": 15
+  }
+ },
+ {
+  "Name": "Gravios",
+  "Names": {
+   "english": "Gravios",
+   "japanese": "グラビモス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/69596",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 15,
+   "Thunder": 5,
+   "Ice": 5,
+   "Dragon": 25
+  }
+ },
+ {
+  "Name": "Chameleos",
+  "Names": {
+   "english": "Chameleos",
+   "japanese": "オオナズチ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/69346",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 35,
+   "Water": 0,
+   "Thunder": 20,
+   "Ice": 0,
+   "Dragon": 35
+  }
+ },
+ {
+  "Name": "Ukanlos",
+  "Names": {
+   "english": "Ukanlos",
+   "japanese": "ウカムルバス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/640d6",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 20,
+   "Water": 5,
+   "Thunder": 20,
+   "Ice": 0,
+   "Dragon": 15
+  }
+ },
+ {
+  "Name": "Giadrome",
+  "Names": {
+   "english": "Giadrome",
+   "japanese": "ドスギアノス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/64d84",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 40,
+   "Water": 20,
+   "Thunder": 30,
+   "Ice": 5,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Lavasioth",
+  "Names": {
+   "english": "Lavasioth",
+   "japanese": "ヴォルガノス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6ba96",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 10,
+   "Thunder": 10,
+   "Ice": 10,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Gammoth",
+  "Names": {
+   "english": "Gammoth",
+   "japanese": "ガムート"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/69e46",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 0,
+   "Thunder": 15,
+   "Ice": 0,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Seregios",
+  "Names": {
+   "english": "Seregios",
+   "japanese": "セルレギオス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/67eb6",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 10,
+   "Thunder": 25,
+   "Ice": 15,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Gendrome",
+  "Names": {
+   "english": "Gendrome",
+   "japanese": "ドスゲネポス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6eab6",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 20,
+   "Water": 20,
+   "Thunder": 30,
+   "Ice": 40,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Najarala",
+  "Names": {
+   "english": "Najarala",
+   "japanese": "ガララアジャラ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/69a46",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 5,
+   "Thunder": 10,
+   "Ice": 15,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Rajang",
+  "Names": {
+   "english": "Rajang",
+   "japanese": "ラージャン"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/63306",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 5,
+   "Water": 5,
+   "Thunder": 0,
+   "Ice": 30,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "White Fatalis",
+  "Names": {
+   "english": "White Fatalis",
+   "japanese": "ミラボレアス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6b886",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 15,
+   "Water": 5,
+   "Thunder": 5,
+   "Ice": 10,
+   "Dragon": 30
+  }
+ },
+ {
+  "Name": "Mizutsune",
+  "Names": {
+   "english": "Mizutsune",
+   "japanese": "タマミツネ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6e5b6",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 5,
+   "Water": 0,
+   "Thunder": 10,
+   "Ice": 5,
+   "Dragon": 8
+  }
+ },
+ {
+  "Name": "Lagombi",
+  "Names": {
+   "english": "Lagombi",
+   "japanese": "ウルクスス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/68a46",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 30,
+   "Water": 0,
+   "Thunder": 20,
+   "Ice": 0,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Snowbaron Lagombi",
+  "Names": {
+   "english": "Snowbaron Lagombi",
+   "japanese": "大雪主ウルクスス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6db86",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 25,
+   "Water": 0,
+   "Thunder": 20,
+   "Ice": 0,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Gypceros",
+  "Names": {
+   "english": "Gypceros",
+   "japanese": "ゲリョス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/a6b96",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 30,
+   "Water": 10,
+   "Thunder": 0,
+   "Ice": 20,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Khezu",
+  "Names": {
+   "english": "Khezu",
+   "japanese": "フルフル"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/d6d86",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 30,
+   "Water": 5,
+   "Thunder": 0,
+   "Ice": 5,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Rathian",
+  "Names": {
+   "english": "Rathian",
+   "japanese": "リオレイア"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/464d6",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 15,
+   "Thunder": 20,
+   "Ice": 15,
+   "Dragon": 35
+  }
+ },
+ {
+  "Name": "Thunderlord Zinogre",
+  "Names": {
+   "english": "Thunderlord Zinogre",
+   "japanese": "金雷公ジンオウガ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6e0b6",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 10,
+   "Thunder": 0,
+   "Ice": 15,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Teostra",
+  "Names": {
+   "english": "Teostra",
+   "japanese": "テオ・テスカトル"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/65a76",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 25,
+   "Thunder": 10,
+   "Ice": 15,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Drilltusk Tetsucabra",
+  "Names": {
+   "english": "Drilltusk Tetsucabra",
+   "japanese": "岩穿テツカブラ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/64ad6",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 25,
+   "Thunder": 20,
+   "Ice": 5,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Deviljho",
+  "Names": {
+   "english": "Deviljho",
+   "japanese": "イビルジョー"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6edb6",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 10,
+   "Thunder": 15,
+   "Ice": 5,
+   "Dragon": 15
+  }
+ },
+ {
+  "Name": "Ahtal-Ka",
+  "Names": {
+   "english": "Ahtal-Ka",
+   "japanese": "アトラル・カ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6eaad",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 20,
+   "Thunder": 25,
+   "Ice": 5,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Arzuros",
+  "Names": {
+   "english": "Arzuros",
+   "japanese": "アオアシラ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/65776",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 20,
+   "Water": 5,
+   "Thunder": 10,
+   "Ice": 15,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Volvidon",
+  "Names": {
+   "english": "Volvidon",
+   "japanese": "ラングロトラ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/674b6",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 30,
+   "Thunder": 15,
+   "Ice": 20,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Nerscylla",
+  "Names": {
+   "english": "Nerscylla",
+   "japanese": "ネルスキュラ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/60750",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 15,
+   "Water": 0,
+   "Thunder": 0,
+   "Ice": 5,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Kirin",
+  "Names": {
+   "english": "Kirin",
+   "japanese": "キリン"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/63d06",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 5,
+   "Water": 5,
+   "Thunder": 0,
+   "Ice": 5,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Furious Rajang",
+  "Names": {
+   "english": "Furious Rajang",
+   "japanese": "激昂したラージャン"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/644d6",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 5,
+   "Water": 5,
+   "Thunder": 0,
+   "Ice": 30,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Savage Deviljho",
+  "Names": {
+   "english": "Savage Deviljho",
+   "japanese": "怒り喰らうイビルジョー"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/69446",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 20,
+   "Water": 20,
+   "Thunder": 30,
+   "Ice": 20,
+   "Dragon": 20
+  }
+ },
+ {
+  "Name": "Crimson Fatalis",
+  "Names": {
+   "english": "Crimson Fatalis",
+   "japanese": "ミラボレアス（紅龍）"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/67306",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 5,
+   "Water": 10,
+   "Thunder": 5,
+   "Ice": 15,
+   "Dragon": 30
+  }
+ },
+ {
+  "Name": "Cephadrome",
+  "Names": {
+   "english": "Cephadrome",
+   "japanese": "ドスガレオス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/65e76",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 10,
+   "Thunder": 15,
+   "Ice": 30,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Zamtrios",
+  "Names": {
+   "english": "Zamtrios",
+   "japanese": "ザボアザギル"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6e7b6",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 15,
+   "Water": 0,
+   "Thunder": 20,
+   "Ice": 0,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Soulseer Mizutsune",
+  "Names": {
+   "english": "Soulseer Mizutsune",
+   "japanese": "天眼タマミツネ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6bbe8",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 5,
+   "Water": 0,
+   "Thunder": 10,
+   "Ice": 5,
+   "Dragon": 8
+  }
+ },
+ {
+  "Name": "Agnaktor",
+  "Names": {
+   "english": "Agnaktor",
+   "japanese": "アグナコトル"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/677b6",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 30,
+   "Thunder": 15,
+   "Ice": 25,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Uragaan",
+  "Names": {
+   "english": "Uragaan",
+   "japanese": "ウラガンキン"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/65076",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 40,
+   "Thunder": 5,
+   "Ice": 20,
+   "Dragon": 30
+  }
+ },
+ {
+  "Name": "Astalos",
+  "Names": {
+   "english": "Astalos",
+   "japanese": "ライゼクス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/649d6",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 5,
+   "Water": 5,
+   "Thunder": 0,
+   "Ice": 5,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Brachydios",
+  "Names": {
+   "english": "Brachydios",
+   "japanese": "ブラキディオス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6b096",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 25,
+   "Thunder": 5,
+   "Ice": 20,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Shagaru Magala",
+  "Names": {
+   "english": "Shagaru Magala",
+   "japanese": "シャガルマガラ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/68946",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 25,
+   "Water": 0,
+   "Thunder": 15,
+   "Ice": 5,
+   "Dragon": 30
+  }
+ },
+ {
+  "Name": "Velocidrome",
+  "Names": {
+   "english": "Velocidrome",
+   "japanese": "ドスランポス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/64dd6",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 30,
+   "Water": 30,
+   "Thunder": 30,
+   "Ice": 40,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Bulldrome",
+  "Names": {
+   "english": "Bulldrome",
+   "japanese": "ドスファンゴ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/60b36",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 20,
+   "Water": 10,
+   "Thunder": 30,
+   "Ice": 5,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Silver Rathalos",
+  "Names": {
+   "english": "Silver Rathalos",
+   "japanese": "リオレウス希少種"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/06036",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 35,
+   "Thunder": 30,
+   "Ice": 20,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Dreadking Rathalos",
+  "Names": {
+   "english": "Dreadking Rathalos",
+   "japanese": "黒炎王リオレウス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/d6846",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 5,
+   "Thunder": 10,
+   "Ice": 5,
+   "Dragon": 20
+  }
+ },
+ {
+  "Name": "Kushala Daora",
+  "Names": {
+   "english": "Kushala Daora",
+   "japanese": "クシャルダオラ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6ebb6",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 5,
+   "Thunder": 30,
+   "Ice": 0,
+   "Dragon": 35
+  }
+ },
+ {
+  "Name": "Lao-Shan Lung",
+  "Names": {
+   "english": "Lao-Shan Lung",
+   "japanese": "ラオシャンロン"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/68e56",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 20,
+   "Water": 5,
+   "Thunder": 15,
+   "Ice": 5,
+   "Dragon": 20
+  }
+ },
+ {
+  "Name": "Seltas",
+  "Names": {
+   "english": "Seltas",
+   "japanese": "アルセルタス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6d786",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 20,
+   "Water": 10,
+   "Thunder": 25,
+   "Ice": 10,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Yian Kut-Ku",
+  "Names": {
+   "english": "Yian Kut-Ku",
+   "japanese": "イャンクック"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/a67b6",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 15,
+   "Thunder": 20,
+   "Ice": 30,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Gold Rathian",
+  "Names": {
+   "english": "Gold Rathian",
+   "japanese": "リオレイア希少種"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/06eb6",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 20,
+   "Thunder": 30,
+   "Ice": 10,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Rustrazor Ceanataur",
+  "Names": {
+   "english": "Rustrazor Ceanataur",
+   "japanese": "鎧裂ショウグンギザミ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6a044",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 10,
+   "Thunder": 20,
+   "Ice": 20,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Silverwind Nargacuga",
+  "Names": {
+   "english": "Silverwind Nargacuga",
+   "japanese": "白疾風ナルガクルガ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/63506",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 20,
+   "Water": 10,
+   "Thunder": 25,
+   "Ice": 15,
+   "Dragon": 15
+  }
+ },
+ {
+  "Name": "Lagiacrus",
+  "Names": {
+   "english": "Lagiacrus",
+   "japanese": "ラギアクルス"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/68346",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 15,
+   "Water": 0,
+   "Thunder": 0,
+   "Ice": 10,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Daimyo Hermitaur",
+  "Names": {
+   "english": "Daimyo Hermitaur",
+   "japanese": "ダイミョウザザミ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6da86",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 30,
+   "Water": 10,
+   "Thunder": 35,
+   "Ice": 20,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Nightcloak Malfestio",
+  "Names": {
+   "english": "Nightcloak Malfestio",
+   "japanese": "朧隠ホロロホルル"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/6dade",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 15,
+   "Thunder": 5,
+   "Ice": 5,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Dreadqueen Rathian",
+  "Names": {
+   "english": "Dreadqueen Rathian",
+   "japanese": "紫毒姫リオレイア"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/76946",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 10,
+   "Thunder": 10,
+   "Ice": 10,
+   "Dragon": 20
+  }
+ },
+ {
+  "Name": "Nibelsnarf",
+  "Names": {
+   "english": "Nibelsnarf",
+   "japanese": "ハプルボッカ"
+  },
+  "Url": "https://mhgu.kiranico.com/monster/63706",
+  "Game": "mhgu",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 15,
+   "Thunder": 10,
+   "Ice": 15,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Teostra",
+  "Names": {
+   "english": "Teostra",
+   "japanese": "テオ・テスカトル"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/teostra",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 25,
+   "Thunder": 10,
+   "Ice": 15,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Basarios",
+  "Names": {
+   "english": "Basarios",
+   "japanese": "バサルモス"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/basarios",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 15,
+   "Thunder": 10,
+   "Ice": 10,
+   "Dragon": 18
+  }
+ },
+ {
+  "Name": "Rathalos",
+  "Names": {
+   "english": "Rathalos",
+   "japanese": "リオレウス"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/rathalos",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 10,
+   "Thunder": 15,
+   "Ice": 10,
+   "Dragon": 20
+  }
+ },
+ {
+  "Name": "Diablos",
+  "Names": {
+   "english": "Diablos",
+   "japanese": "ディアブロス"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/diablos",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 15,
+   "Thunder": 15,
+   "Ice": 20,
+   "Dragon": 15
+  }
+ },
+ {
+  "Name": "Molten Tigrex",
+  "Names": {
+   "english": "Molten Tigrex",
+   "japanese": "ティガレックス希少種"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/molten-tigrex",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 15,
+   "Thunder": 5,
+   "Ice": 10,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Plum Daimyo Hermitaur",
+  "Names": {
+   "english": "Plum Daimyo Hermitaur",
+   "japanese": "ダイミョウザザミ亜種"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/plum-d.hermitaur",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 20,
+   "Water": 10,
+   "Thunder": 25,
+   "Ice": 35,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Tigerstripe Zamtrios",
+  "Names": {
+   "english": "Tigerstripe Zamtrios",
+   "japanese": "ザボアザギル亜種"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/tigerstripe-zamtrios",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 0,
+   "Thunder": 15,
+   "Ice": 25,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Savage Deviljho",
+  "Names": {
+   "english": "Savage Deviljho",
+   "japanese": "怒り喰らうイビルジョー"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/savage-deviljho",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 20,
+   "Water": 20,
+   "Thunder": 30,
+   "Ice": 20,
+   "Dragon": 20
+  }
+ },
+ {
+  "Name": "Khezu",
+  "Names": {
+   "english": "Khezu",
+   "japanese": "フルフル"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/khezu",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 30,
+   "Water": 5,
+   "Thunder": 0,
+   "Ice": 5,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Black Gravios",
+  "Names": {
+   "english": "Black Gravios",
+   "japanese": "グラビモス亜種"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/black-gravios",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 15,
+   "Thunder": 5,
+   "Ice": 0,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Ukanlos",
+  "Names": {
+   "english": "Ukanlos",
+   "japanese": "ウカムルバス"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/ukanlos",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 20,
+   "Water": 5,
+   "Thunder": 20,
+   "Ice": 0,
+   "Dragon": 15
+  }
+ },
+ {
+  "Name": "Blue Yian Kut-Ku",
+  "Names": {
+   "english": "Blue Yian Kut-Ku",
+   "japanese": "イャンクック亜種"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/blue-yian-kut-ku",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 30,
+   "Thunder": 25,
+   "Ice": 20,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Gypceros",
+  "Names": {
+   "english": "Gypceros",
+   "japanese": "ゲリョス"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/gypceros",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 30,
+   "Water": 10,
+   "Thunder": 0,
+   "Ice": 20,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Furious Rajang",
+  "Names": {
+   "english": "Furious Rajang",
+   "japanese": "激昂したラージャン"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/furious-rajang",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 5,
+   "Water": 5,
+   "Thunder": 0,
+   "Ice": 30,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Kushala Daora",
+  "Names": {
+   "english": "Kushala Daora",
+   "japanese": "クシャルダオラ"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/kushala-daora",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 5,
+   "Thunder": 30,
+   "Ice": 0,
+   "Dragon": 35
+  }
+ },
+ {
+  "Name": "Desert Seltas Queen",
+  "Names": {
+   "english": "Desert Seltas Queen",
+   "japanese": "ゲネル・セルタス亜種"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/desert-seltas-queen",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 5,
+   "Thunder": 10,
+   "Ice": 25,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Gendrome",
+  "Names": {
+   "english": "Gendrome",
+   "japanese": "ドスゲネポス"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/gendrome",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 20,
+   "Water": 20,
+   "Thunder": 30,
+   "Ice": 40,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Brachydios",
+  "Names": {
+   "english": "Brachydios",
+   "japanese": "ブラキディオス"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/brachydios",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 25,
+   "Thunder": 5,
+   "Ice": 20,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Gravios",
+  "Names": {
+   "english": "Gravios",
+   "japanese": "グラビモス"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/gravios",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 15,
+   "Thunder": 5,
+   "Ice": 5,
+   "Dragon": 25
+  }
+ },
+ {
+  "Name": "Daimyo Hermitaur",
+  "Names": {
+   "english": "Daimyo Hermitaur",
+   "japanese": "ダイミョウザザミ"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/daimyo-hermitaur",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 30,
+   "Water": 10,
+   "Thunder": 35,
+   "Ice": 20,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Ash Kecha Wacha",
+  "Names": {
+   "english": "Ash Kecha Wacha",
+   "japanese": "ケチャワチャ亜種"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/ash-kecha-wacha",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 30,
+   "Thunder": 10,
+   "Ice": 15,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Congalala",
+  "Names": {
+   "english": "Congalala",
+   "japanese": "ババコンガ"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/congalala",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 25,
+   "Water": 10,
+   "Thunder": 10,
+   "Ice": 15,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Seregios",
+  "Names": {
+   "english": "Seregios",
+   "japanese": "セルレギオス"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/seregios",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 10,
+   "Thunder": 25,
+   "Ice": 15,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Dalamadur",
+  "Names": {
+   "english": "Dalamadur",
+   "japanese": "ダラ・アマデュラ"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/dalamadur",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 10,
+   "Thunder": 20,
+   "Ice": 20,
+   "Dragon": 30
+  }
+ },
+ {
+  "Name": "Desert Seltas",
+  "Names": {
+   "english": "Desert Seltas",
+   "japanese": "アルセルタス亜種"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/desert-seltas",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 5,
+   "Water": 5,
+   "Thunder": 10,
+   "Ice": 15,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Ruby Basarios",
+  "Names": {
+   "english": "Ruby Basarios",
+   "japanese": "バサルモス亜種"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/ruby-basarios",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 13,
+   "Thunder": 10,
+   "Ice": 18,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Silver Rathalos",
+  "Names": {
+   "english": "Silver Rathalos",
+   "japanese": "リオレウス希少種"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/silver-rathalos",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 35,
+   "Thunder": 30,
+   "Ice": 20,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Kirin",
+  "Names": {
+   "english": "Kirin",
+   "japanese": "キリン"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/kirin",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 5,
+   "Water": 5,
+   "Thunder": 0,
+   "Ice": 5,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Chameleos",
+  "Names": {
+   "english": "Chameleos",
+   "japanese": "オオナズチ"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/chameleos",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 35,
+   "Water": 0,
+   "Thunder": 20,
+   "Ice": 0,
+   "Dragon": 35
+  }
+ },
+ {
+  "Name": "Yian Garuga",
+  "Names": {
+   "english": "Yian Garuga",
+   "japanese": "イャンガルルガ"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/yian-garuga",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 20,
+   "Thunder": 0,
+   "Ice": 10,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Najarala",
+  "Names": {
+   "english": "Najarala",
+   "japanese": "ガララアジャラ"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/najarala",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 5,
+   "Thunder": 10,
+   "Ice": 15,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Deviljho",
+  "Names": {
+   "english": "Deviljho",
+   "japanese": "イビルジョー"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/deviljho",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 10,
+   "Thunder": 15,
+   "Ice": 5,
+   "Dragon": 15
+  }
+ },
+ {
+  "Name": "Seltas Queen",
+  "Names": {
+   "english": "Seltas Queen",
+   "japanese": "ゲネル・セルタス"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/seltas-queen",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 30,
+   "Water": 0,
+   "Thunder": 15,
+   "Ice": 25,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Nerscylla",
+  "Names": {
+   "english": "Nerscylla",
+   "japanese": "ネルスキュラ"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/nerscylla",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 15,
+   "Water": 0,
+   "Thunder": 0,
+   "Ice": 5,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Rajang",
+  "Names": {
+   "english": "Rajang",
+   "japanese": "ラージャン"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/rajang",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 5,
+   "Water": 5,
+   "Thunder": 0,
+   "Ice": 30,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "White Monoblos",
+  "Names": {
+   "english": "White Monoblos",
+   "japanese": "モノブロス亜種Monoburosu Ashu"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/white-monoblos",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 5,
+   "Water": 0,
+   "Thunder": 15,
+   "Ice": 25,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Shah Dalamadur",
+  "Names": {
+   "english": "Shah Dalamadur",
+   "japanese": "ダラ・アマデュラ亜種"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/shah-dalamadur",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 10,
+   "Thunder": 20,
+   "Ice": 20,
+   "Dragon": 30
+  }
+ },
+ {
+  "Name": "Kecha Wacha",
+  "Names": {
+   "english": "Kecha Wacha",
+   "japanese": "ケチャワチャ"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/kecha-wacha",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 30,
+   "Water": 0,
+   "Thunder": 20,
+   "Ice": 10,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Tetsucabra",
+  "Names": {
+   "english": "Tetsucabra",
+   "japanese": "テツカブラ"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/tetsucabra",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 30,
+   "Thunder": 25,
+   "Ice": 5,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Red Khezu",
+  "Names": {
+   "english": "Red Khezu",
+   "japanese": "フルフル（亜種）Furufuru Ashu"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/red-khezu",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 5,
+   "Water": 30,
+   "Thunder": 0,
+   "Ice": 5,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Emerald Congalala",
+  "Names": {
+   "english": "Emerald Congalala",
+   "japanese": "ババコンガ亜種"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/emerald-congalala",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 5,
+   "Water": 10,
+   "Thunder": 10,
+   "Ice": 15,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Tigrex",
+  "Names": {
+   "english": "Tigrex",
+   "japanese": "ティガレックス"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/tigrex",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 10,
+   "Thunder": 20,
+   "Ice": 5,
+   "Dragon": 15
+  }
+ },
+ {
+  "Name": "Shagaru Magala",
+  "Names": {
+   "english": "Shagaru Magala",
+   "japanese": "シャガルマガラ"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/shagaru-magala",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 25,
+   "Water": 0,
+   "Thunder": 15,
+   "Ice": 5,
+   "Dragon": 30
+  }
+ },
+ {
+  "Name": "Konchu",
+  "Names": {
+   "english": "Konchu",
+   "japanese": "クンチュウ"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/konchu",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 0,
+   "Thunder": 0,
+   "Ice": 0,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Rathian",
+  "Names": {
+   "english": "Rathian",
+   "japanese": "リオレイア"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/rathian",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 15,
+   "Thunder": 20,
+   "Ice": 15,
+   "Dragon": 35
+  }
+ },
+ {
+  "Name": "Brute Tigrex",
+  "Names": {
+   "english": "Brute Tigrex",
+   "japanese": "ティガレックス亜種"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/brute-tigrex",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 25,
+   "Thunder": 15,
+   "Ice": 10,
+   "Dragon": 15
+  }
+ },
+ {
+  "Name": "Gore Magala",
+  "Names": {
+   "english": "Gore Magala",
+   "japanese": "ゴア・マガラ"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/gore-magala",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 15,
+   "Water": 0,
+   "Thunder": 15,
+   "Ice": 5,
+   "Dragon": 15
+  }
+ },
+ {
+  "Name": "Dah'ren Mohran",
+  "Names": {
+   "english": "Dah'ren Mohran",
+   "japanese": "ダレン・モーラン"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/dahren-mohran",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 3,
+   "Thunder": 15,
+   "Ice": 0,
+   "Dragon": 15
+  }
+ },
+ {
+  "Name": "Fatalis",
+  "Names": {
+   "english": "Fatalis",
+   "japanese": "ミラボレアス"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/fatalis",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 15,
+   "Water": 5,
+   "Thunder": 5,
+   "Ice": 10,
+   "Dragon": 80
+  }
+ },
+ {
+  "Name": "Cephalos",
+  "Names": {
+   "english": "Cephalos",
+   "japanese": "ガレオス"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/cephalos",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 30,
+   "Water": 10,
+   "Thunder": 40,
+   "Ice": 10,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Iodrome",
+  "Names": {
+   "english": "Iodrome",
+   "japanese": "ドスイーオス"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/iodrome",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 20,
+   "Water": 30,
+   "Thunder": 30,
+   "Ice": 10,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Lagombi",
+  "Names": {
+   "english": "Lagombi",
+   "japanese": "ウルクスス"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/lagombi",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 30,
+   "Water": 0,
+   "Thunder": 20,
+   "Ice": 0,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Tidal Najarala",
+  "Names": {
+   "english": "Tidal Najarala",
+   "japanese": "ガララアジャラ亜種"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/tidal-najarala",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 5,
+   "Thunder": 10,
+   "Ice": 0,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Akantor",
+  "Names": {
+   "english": "Akantor",
+   "japanese": "アカムトルム"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/akantor",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 5,
+   "Thunder": 20,
+   "Ice": 0,
+   "Dragon": 20
+  }
+ },
+ {
+  "Name": "Apceros",
+  "Names": {
+   "english": "Apceros",
+   "japanese": "アプケロス"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/apceros",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 0,
+   "Thunder": 0,
+   "Ice": 0,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Shrouded Nerscylla",
+  "Names": {
+   "english": "Shrouded Nerscylla",
+   "japanese": "ネルスキュラ亜種"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/shrouded-nerscylla",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 0,
+   "Thunder": 0,
+   "Ice": 0,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Purple Gypceros",
+  "Names": {
+   "english": "Purple Gypceros",
+   "japanese": "ゲリョス（亜種）"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/purple-gypceros",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 30,
+   "Water": 10,
+   "Thunder": 0,
+   "Ice": 20,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Azure Rathalos",
+  "Names": {
+   "english": "Azure Rathalos",
+   "japanese": "リオレウス亜種"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/azure-rathalos",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 10,
+   "Thunder": 10,
+   "Ice": 15,
+   "Dragon": 20
+  }
+ },
+ {
+  "Name": "Berserk Tetsucabra",
+  "Names": {
+   "english": "Berserk Tetsucabra",
+   "japanese": "テツカブラ亜種"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/berserk-tetsucabra",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 10,
+   "Thunder": 25,
+   "Ice": 30,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Oroshi Kirin",
+  "Names": {
+   "english": "Oroshi Kirin",
+   "japanese": "キリン亜種"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/oroshi-kirin",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 5,
+   "Water": 5,
+   "Thunder": 5,
+   "Ice": 0,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Seltas",
+  "Names": {
+   "english": "Seltas",
+   "japanese": "アルセルタス"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/seltas",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 20,
+   "Water": 10,
+   "Thunder": 25,
+   "Ice": 10,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Great Jaggi",
+  "Names": {
+   "english": "Great Jaggi",
+   "japanese": "ドスジャギィ"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/great-jaggi",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 30,
+   "Water": 20,
+   "Thunder": 20,
+   "Ice": 20,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Yian Kut-Ku",
+  "Names": {
+   "english": "Yian Kut-Ku",
+   "japanese": "イャンクック"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/yian-kut-ku",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 15,
+   "Thunder": 20,
+   "Ice": 30,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Rusted Kushala Daora",
+  "Names": {
+   "english": "Rusted Kushala Daora",
+   "japanese": "錆びたクシャルダオラ"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/rusted-kushala-daora",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 5,
+   "Water": 35,
+   "Thunder": 5,
+   "Ice": 0,
+   "Dragon": 30
+  }
+ },
+ {
+  "Name": "Hermitaur",
+  "Names": {
+   "english": "Hermitaur",
+   "japanese": "ヤオザミ"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/hermitaur",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 30,
+   "Water": 5,
+   "Thunder": 60,
+   "Ice": 20,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Velocidrome",
+  "Names": {
+   "english": "Velocidrome",
+   "japanese": "ドスランポス"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/velocidrome",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 30,
+   "Water": 30,
+   "Thunder": 30,
+   "Ice": 40,
+   "Dragon": 10
+  }
+ },
+ {
+  "Name": "Monoblos",
+  "Names": {
+   "english": "Monoblos",
+   "japanese": "モノブロス"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/monoblos",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 5,
+   "Water": 0,
+   "Thunder": 15,
+   "Ice": 25,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Zinogre",
+  "Names": {
+   "english": "Zinogre",
+   "japanese": "ジンオウガ"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/zinogre",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 10,
+   "Thunder": 0,
+   "Ice": 15,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Black Diablos",
+  "Names": {
+   "english": "Black Diablos",
+   "japanese": "ディアブロス亜種"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/black-diablos",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 15,
+   "Thunder": 15,
+   "Ice": 20,
+   "Dragon": 15
+  }
+ },
+ {
+  "Name": "Stygian Zinogre",
+  "Names": {
+   "english": "Stygian Zinogre",
+   "japanese": "ジンオウガ亜種"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/stygian-zinogre",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 20,
+   "Thunder": 20,
+   "Ice": 10,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Stygian Zinogre",
+  "Names": {
+   "english": "Stygian Zinogre",
+   "japanese": "ジンオウガ亜種"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/stygian-zinogre",
+  "Game": "mhw",
+  "Weakness": {
+   "Fire": 10,
+   "Water": 20,
+   "Thunder": 20,
+   "Ice": 10,
+   "Dragon": 0
+  }
+ },
+ {
+  "Name": "Gogmazios",
+  "Names": {
+   "english": "Gogmazios",
+   "japanese": "ゴグマジオス"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/gogmazios",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 20,
+   "Water": 0,
+   "Thunder": 5,
+   "Ice": 10,
+   "Dragon": 60
+  }
+ },
+ {
+  "Name": "Zamtrios",
+  "Names": {
+   "english": "Zamtrios",
+   "japanese": "ザボアザギル"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/zamtrios",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 15,
+   "Water": 0,
+   "Thunder": 20,
+   "Ice": 0,
+   "Dragon": 5
+  }
+ },
+ {
+  "Name": "Pink Rathian",
+  "Names": {
+   "english": "Pink Rathian",
+   "japanese": "リオレイア（亜種）"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/pink-rathian",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 10,
+   "Thunder": 15,
+   "Ice": 10,
+   "Dragon": 25
+  }
+ },
+ {
+  "Name": "Gold Rathian",
+  "Names": {
+   "english": "Gold Rathian",
+   "japanese": "リオレイア希少種"
+  },
+  "Url": "http://kiranico.com/en/mh4u/monster/gold-rathian",
+  "Game": "mh4u",
+  "Weakness": {
+   "Fire": 0,
+   "Water": 20,
+   "Thunder": 30,
+   "Ice": 10,
+   "Dragon": 0
+  }
+ }
+]
