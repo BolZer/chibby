@@ -30,16 +30,24 @@ class App extends StatelessWidget {
   Widget build(BuildContext context) {
     return MultiBlocProvider(
       providers: _blocProviders,
-      child: BlocBuilder<SettingsBloc, SettingsState>(builder: (BuildContext context, SettingsState state) {
+      child: BlocBuilder<SettingsBloc, SettingsState>(
+          builder: (BuildContext context, SettingsState state) {
         return MaterialApp(
-          onGenerateTitle: (BuildContext context) => AppLocalization.of(context).title,
+          onGenerateTitle: (BuildContext context) =>
+              AppLocalization.of(context).title,
           localizationsDelegates: ApplicationConfig.SUPPORTED_DELEGATES,
-          locale: state.language == ChibbyLanguageVersion.ENGLISH ? Locale('en') : Locale('ja'),
+          locale: state.language == ChibbyLanguageVersion.ENGLISH
+              ? Locale('en')
+              : Locale('ja'),
           supportedLocales: ApplicationConfig.SUPPORTED_LOCALES,
           theme: ThemeData(
             primarySwatch: Colors.teal,
-            scaffoldBackgroundColor: state.theme == ChibbyThemeVersion.DARK ? Color.fromRGBO(45, 45, 45, 1) : Color.fromRGBO(250, 250, 250, 1),
-            brightness: state.theme == ChibbyThemeVersion.DARK ? Brightness.dark : Brightness.light,
+            scaffoldBackgroundColor: state.theme == ChibbyThemeVersion.DARK
+                ? Color.fromRGBO(45, 45, 45, 1)
+                : Color.fromRGBO(250, 250, 250, 1),
+            brightness: state.theme == ChibbyThemeVersion.DARK
+                ? Brightness.dark
+                : Brightness.light,
           ),
           home: Main(),
         );
@@ -81,15 +89,6 @@ class _MainState extends State<Main> {
     }
 
     return AppBar(
-        leading: IconButton(
-          icon: Icon(FontAwesomeIcons.cog),
-          onPressed: () {
-            Navigator.push(
-              context,
-              MaterialPageRoute(builder: (context) => Settings()),
-            );
-          },
-        ),
         actions: <Widget>[
           IconButton(
               icon: Icon(Icons.close),
@@ -102,19 +101,25 @@ class _MainState extends State<Main> {
           )
         ],
         title: Theme(
-          data: Theme.of(context).copyWith(primaryColor: _settingsBloc.state.theme == ChibbyThemeVersion.DARK ? Colors.tealAccent : Colors.black54),
+          data: Theme.of(context).copyWith(
+              primaryColor: _settingsBloc.state.theme == ChibbyThemeVersion.DARK
+                  ? Colors.tealAccent
+                  : Colors.black54),
           child: TextField(
             style: TextStyle(fontSize: 19.0),
             controller: _controller,
             onChanged: (String text) {
-              _monstersBloc.add(SearchMonsters(_controller.text, context, version));
+              _monstersBloc
+                  .add(SearchMonsters(_controller.text, context, version));
             },
-            decoration: new InputDecoration(prefixIcon: Icon(FontAwesomeIcons.search, size: 15.0), hintText: AppLocalization.of(context).search),
+            decoration: new InputDecoration(
+                prefixIcon: Icon(FontAwesomeIcons.search, size: 15.0),
+                hintText: AppLocalization.of(context).search),
           ),
         ));
   }
 
-  ListView get _listView {
+  Widget get _listView {
     MonstersState state = _monstersBloc.state;
     List<Monster> monsters = [];
 
@@ -129,7 +134,11 @@ class _MainState extends State<Main> {
             Padding(
               padding: EdgeInsets.symmetric(horizontal: 10.0, vertical: 10.0),
               child: MonsterTile(
-                name: monsters[index].names[_settingsBloc.state.languageMonsters.toString().split(".").last.toLowerCase()],
+                name: monsters[index].names[_settingsBloc.state.languageMonsters
+                    .toString()
+                    .split(".")
+                    .last
+                    .toLowerCase()],
                 img: Container(
                   constraints: BoxConstraints.tight(Size(0.0, 50.0)),
                   child: Image(
@@ -147,12 +156,17 @@ class _MainState extends State<Main> {
                         );
                       },
                       fit: BoxFit.contain,
-                      image: AssetImage("assets/monster/" + monsters[index].game + "/" + monsters[index].name.replaceAll(" ", "_") + ".png")),
+                      image: AssetImage("assets/monster/" +
+                          monsters[index].game +
+                          "/" +
+                          monsters[index].name.replaceAll(" ", "_") +
+                          ".png")),
                 ),
                 weakness: monsters[index].weakness,
               ),
             ),
-            Divider(thickness: 1.0)
+            Divider(thickness: 1.5, height: 20.0),
+            (index + 1) == monsters.length ? SizedBox(height: 80) : SizedBox(),
           ],
         );
       },
@@ -164,12 +178,28 @@ class _MainState extends State<Main> {
     _monstersBloc = BlocProvider.of<MonstersBloc>(context);
     _settingsBloc = BlocProvider.of<SettingsBloc>(context);
 
-    return BlocBuilder<MonstersBloc, MonstersState>(builder: (BuildContext context, MonstersState state) {
+    return BlocBuilder<MonstersBloc, MonstersState>(
+        builder: (BuildContext context, MonstersState state) {
       if (state is MonstersLoading) {
         _monstersBloc.add(LoadMonsters(context, state.version));
       }
 
-      return Scaffold(appBar: _appBar, body: state is MonstersLoaded ? _listView : Center(child: CircularProgressIndicator()));
+      return Scaffold(
+          floatingActionButton: FloatingActionButton(
+            backgroundColor: Colors.teal,
+            foregroundColor: Theme.of(context).primaryTextTheme.button.color,
+            child: Icon(FontAwesomeIcons.cog),
+            onPressed: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(builder: (context) => Settings()),
+              );
+            },
+          ),
+          appBar: _appBar,
+          body: state is MonstersLoaded
+              ? _listView
+              : Center(child: CircularProgressIndicator()));
     });
   }
 }
